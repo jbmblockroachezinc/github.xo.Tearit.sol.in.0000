@@ -1,2 +1,2 @@
-# 000.testModule
+# xo.000.testModule
 testing our first module
